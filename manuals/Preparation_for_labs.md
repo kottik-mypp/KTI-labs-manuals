@@ -3,8 +3,11 @@
 Прежде всего вам нужно скачать установочные файлы и ISO-образ.
 
 Скачать их можно по этим ссылкам:
-- [Установщик гипервизора и ISO-образ Rocky Linux](https://drive.google.com/drive/folders/1F3HMSls1LDoprFnNyDuAwhaRnjSfKjem)
-- [Установщик VS Code](https://code.visualstudio.com/)
+- [Установщик гипервизора под Windows](https://drive.google.com/file/d/1QY-3zAu9CYJ7LZPepDXqn9UOSFMqU-W6/view?usp=drive_link)
+- [Установщик гипервизора под macOS](https://drive.google.com/file/d/1iHxTjysd4Jco0mDkAJhBpfWqTEjIGyQa/view?usp=drive_link)
+- [ISO-образ Rocky Linux](https://dl.rockylinux.org/pub/rocky/10.2/isos/x86_64/Rocky-10.2-x86_64-minimal.iso)
+- [Установщик VS Code](https://code.visualstudio.com/) — используется во всех лабораторных и на скриншотах
+- [Установщик Zed](https://zed.dev/) — альтернативный редактор, по желанию
 
 После этого у вас на компьютере должны быть файлы как на скриншоте ниже:
 
@@ -36,16 +39,20 @@
 
 ---
 
+## Установка Zed
+Zed — альтернативный редактор кода. Если вам привычнее VS Code, этот шаг можно пропустить.
+
+Установка тривиальна и пояснений не требует.
+
+---
+
 ## Установка VMware Workstation Pro
 Здесь, как и с VS Code, процедура установки не требует пояснений.
 
-![Установка VMware Workstation Pro](../images/preparation_for_labs/0.7.png)
+![И раз](../images/preparation_for_labs/0.7.png)
 
-При первом открытии установленного гипервизора появится такое окно:
+![И два](../images/preparation_for_labs/0.8.png)
 
-![Вот тебе и welcome, деньги им ещё платить!](../images/preparation_for_labs/0.8.png)
-
-Так как 30 пробных дней нам не хватит, мы позаимствуем лицензионный ключ [отсюда](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) и вставим в соответствующее поле.
 
 ---
 
