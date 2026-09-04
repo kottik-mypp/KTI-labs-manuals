@@ -3,8 +3,8 @@
 Прежде всего вам нужно скачать установочные файлы и ISO-образ.
 
 Скачать их можно по этим ссылкам:
-- [Установщик гипервизора под Windows](https://drive.google.com/file/d/1QY-3zAu9CYJ7LZPepDXqn9UOSFMqU-W6/view?usp=drive_link)
-- [Установщик гипервизора под macOS](https://drive.google.com/file/d/1iHxTjysd4Jco0mDkAJhBpfWqTEjIGyQa/view?usp=drive_link)
+- [Установщик гипервизора под Windows](https://drive.google.com/file/d/1iHxTjysd4Jco0mDkAJhBpfWqTEjIGyQa/view?usp=drive_link)
+- [Установщик гипервизора под macOS](https://drive.google.com/file/d/1QY-3zAu9CYJ7LZPepDXqn9UOSFMqU-W6/view?usp=drive_link)
 - [ISO-образ Rocky Linux](https://dl.rockylinux.org/pub/rocky/10.2/isos/x86_64/Rocky-10.2-x86_64-minimal.iso)
 - [Установщик VS Code](https://code.visualstudio.com/) — используется во всех лабораторных и на скриншотах
 - [Установщик Zed](https://zed.dev/) — альтернативный (нишевый) редактор, по желанию вместо VS Code
