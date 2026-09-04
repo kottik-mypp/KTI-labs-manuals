@@ -7,7 +7,7 @@
 - [Установщик гипервизора под macOS](https://drive.google.com/file/d/1iHxTjysd4Jco0mDkAJhBpfWqTEjIGyQa/view?usp=drive_link)
 - [ISO-образ Rocky Linux](https://dl.rockylinux.org/pub/rocky/10.2/isos/x86_64/Rocky-10.2-x86_64-minimal.iso)
 - [Установщик VS Code](https://code.visualstudio.com/) — используется во всех лабораторных и на скриншотах
-- [Установщик Zed](https://zed.dev/) — альтернативный редактор, по желанию
+- [Установщик Zed](https://zed.dev/) — альтернативный (нишевый) редактор, по желанию вместо VS Code
 
 После этого у вас на компьютере должны быть файлы как на скриншоте ниже:
 
