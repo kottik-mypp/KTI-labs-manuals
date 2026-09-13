@@ -865,8 +865,7 @@ After=network.target
 [Service]
 Type=notify
 WorkingDirectory=%h/flask_project/flask_app
-Environment="PATH=%h/flask_project/.venv/bin"
-ExecStart=gunicorn \
+ExecStart=%h/flask_project/.venv/bin/gunicorn \
           --access-logfile - \
           app:app
 
